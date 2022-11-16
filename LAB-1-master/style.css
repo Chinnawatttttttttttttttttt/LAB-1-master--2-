@@ -1,0 +1,14 @@
+.blue{
+    color: palevioletred;
+    font-style: italic;
+}
+.red{
+    color: brown;
+    font-style: italic;
+}
+p{
+    color: red;
+}
+#bold{
+    font-style: italic;
+}
